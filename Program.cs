@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace PolyMorphTest
 {
@@ -6,13 +7,17 @@ namespace PolyMorphTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            List<Shape> shapes = new List<Shape>();
             Shape re = new Rectangle(20.0, 10.0);
-            Console.WriteLine("Area:"+re.calculateArea());         
-            Console.WriteLine("Circumference:"+re.calculateCircumference());
+            shapes.Add(re);                
             Shape sq = new Square(20.0);
-            Console.WriteLine("Square Area:"+sq.calculateArea());         
-            Console.WriteLine("Square Circumference:"+sq.calculateCircumference());
+            shapes.Add(sq);
+            
+            shapes.ForEach( sh => {
+                Console.WriteLine("Type:"+sh.getInfo());
+                Console.WriteLine("Area:"+sh.calculateArea());
+                Console.WriteLine("Circumference:"+sh.calculateCircumference());
+            });
         }
     }
 }

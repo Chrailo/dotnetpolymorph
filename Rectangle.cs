@@ -14,4 +14,9 @@ public class Rectangle : Shape
   {
     return height*2+width*2;
   }
+
+  public override string getInfo() {
+    return "Iam a Rectangle!";
+  }
+
 }
