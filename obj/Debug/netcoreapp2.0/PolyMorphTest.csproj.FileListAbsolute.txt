@@ -1,0 +1,11 @@
+C:\Users\Christos\projects\PolyMorphTest\bin\Debug\netcoreapp2.0\PolyMorphTest.deps.json
+C:\Users\Christos\projects\PolyMorphTest\bin\Debug\netcoreapp2.0\PolyMorphTest.runtimeconfig.json
+C:\Users\Christos\projects\PolyMorphTest\bin\Debug\netcoreapp2.0\PolyMorphTest.runtimeconfig.dev.json
+C:\Users\Christos\projects\PolyMorphTest\bin\Debug\netcoreapp2.0\PolyMorphTest.dll
+C:\Users\Christos\projects\PolyMorphTest\bin\Debug\netcoreapp2.0\PolyMorphTest.pdb
+C:\Users\Christos\projects\PolyMorphTest\obj\Debug\netcoreapp2.0\PolyMorphTest.csprojResolveAssemblyReference.cache
+C:\Users\Christos\projects\PolyMorphTest\obj\Debug\netcoreapp2.0\PolyMorphTest.csproj.CoreCompileInputs.cache
+C:\Users\Christos\projects\PolyMorphTest\obj\Debug\netcoreapp2.0\PolyMorphTest.AssemblyInfoInputs.cache
+C:\Users\Christos\projects\PolyMorphTest\obj\Debug\netcoreapp2.0\PolyMorphTest.AssemblyInfo.cs
+C:\Users\Christos\projects\PolyMorphTest\obj\Debug\netcoreapp2.0\PolyMorphTest.dll
+C:\Users\Christos\projects\PolyMorphTest\obj\Debug\netcoreapp2.0\PolyMorphTest.pdb
